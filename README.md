@@ -17,7 +17,7 @@
 
 <div align="center">
   <h3>About me:</h3>
-  <p>Eu sou um desenvolvedor full-stack, viciado em café e resolver problemas.</p>
+  <p></p>
   <h3>Linguagens e ferramentas:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60" height="60"/>
