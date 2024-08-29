@@ -29,7 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="60"/>
   </div>
-  <h1> Sou formado em Técnico de informática pelo Senai e estou graduando em Análise e Desenvolvimento de Sistemas.</h1>
+  <h1> Sou formado em Técnico de informática e estou graduando em Análise e Desenvolvimento de Sistemas.</h1>
                                                                                                                                      </div>
                                                                                                                                      
     
